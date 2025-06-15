@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Yaxye Ali Resume</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: white;
+    color: #222;
+  }
+  .container {
+    max-width: 850px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 30px;
+  }
+  h1 {
+    color: #0054a6;
+    margin-bottom: 0;
+  }
+  h2 {
+    border-bottom: 2px solid #0054a6;
+    padding-bottom: 4px;
+    margin-top: 30px;
+  }
+  p, li {
+    line-height: 1.5;
+  }
+  ul {
+    padding-left: 20px;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Yaxye Ali</h1>
+    <p>St. Cloud, MN | Phone: 320-470-8036 | Email: <a href="mailto:YaxyeAli00@gmail.com">YaxyeAli00@gmail.com</a></p>
+    
+    <h2>Objective</h2>
+    <p>Motivated high school and college student seeking a part-time position to develop professional skills and support transportation needs while continuing academic success.</p>
+    
+    <h2>Education</h2>
+    <h3>St. Cloud State University</h3>
+    <p>Associate’s Degree in Progress, Expected Graduation: 2026</p>
+    
+    <h3>Tech High School</h3>
+    <p>High School Diploma in Progress, Expected Graduation: 2026</p>
+    
+    <h2>Skills</h2>
+    <ul>
+      <li>Microsoft Office (Word, PowerPoint, Excel)</li>
+      <li>Quick learner with new technology and software</li>
+      <li>Strong communication and interpersonal skills</li>
+      <li>Teamwork and collaboration</li>
+    </ul>
+    
+    <h2>Personal Traits</h2>
+    <ul>
+      <li>Dependable and punctual</li>
+      <li>Self-motivated with a strong desire to learn</li>
+      <li>Adaptable and works well under supervision</li>
+      <li>Friendly and approachable</li>
+    </ul>
+    
+    <h2>Volunteer Experience</h2>
+    <h3>Youth Coordinator, Hooyo Hour</h3>
+    <p>2017 to current | St. Cloud, MN</p>
+    <ul>
+      <li>Plan and coordinate weekly youth engagement events</li>
+      <li>Support community program logistics</li>
+    </ul>
+    
+    <h3>Teacher’s Assistant, Islamic Center of St. Cloud</h3>
+    <p>2023 to current</p>
+    <ul>
+      <li>Assist teachers with weekend classes</li>
+      <li>Help younger students stay on task</li>
+    </ul>
+  </div>
+</body>
+</html>
